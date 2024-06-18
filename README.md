@@ -2,7 +2,7 @@
 
 Mandatory fields:
 
-Some fields are added by etherjs library be default:
+Some fields are added by etherjs library (if omitted):
 
 ```javascript
 const txObject = {
